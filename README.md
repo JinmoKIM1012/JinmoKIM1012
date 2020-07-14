@@ -1,9 +1,9 @@
-### Hi, I'm Jinmo Kim!
-
-## Undergraduate in CSE, POSTECH : ~2023.2
-🌱 **I’m currently learning** Computer Vision, NLP 
-🔭 **I’m currently working on** POSTECH UGRP, Robot Club POWER-ON Project "HASSAM"
-📫 **How to reach me** LinkedIn : https://www.linkedin.com/in/jinmo-kim-3041501aa
+### Hi, I'm Jinmo Kim!  
+  
+## Undergraduate in CSE, POSTECH : ~2023.2  
+🌱 **I’m currently learning** Computer Vision, NLP  
+🔭 **I’m currently working on** POSTECH UGRP, Robot Club POWER-ON Project "HASSAM"  
+📫 **How to reach me** LinkedIn : https://www.linkedin.com/in/jinmo-kim-3041501aa  
 
 <!--
 **JinmoKIM1012/JinmoKIM1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
