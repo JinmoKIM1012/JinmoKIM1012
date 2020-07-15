@@ -1,6 +1,8 @@
-### Hi, I'm Jinmo Kim!  
+# Hi, I'm Jinmo Kim!  
   
 ## Undergraduate in CSE, POSTECH : ~2023.2  
+### Programming Language: C/C++, Python  
+### Exposure to MySQL, Git, Verilog, AVR C Programming  
 🌱 **I’m currently learning** Computer Vision, NLP  
 🔭 **I’m currently working on** POSTECH UGRP, Robot Club POWER-ON Project "HASSAM"  
 📫 **How to reach me** LinkedIn : https://www.linkedin.com/in/jinmo-kim-3041501aa  
