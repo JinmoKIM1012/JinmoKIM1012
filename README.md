@@ -4,7 +4,7 @@
 ### Programming Language: C/C++, Python  
 ### Exposure to Open3D, PCL, OpenCV, MySQL, Verilog, AVR C Programming  
 🌱 **I’m currently learning** Computer Vision(3D Vision with LiDAR)  
-🔭 **I’m currently working on** POSTECH UGRP, Robot Club POWER-ON Project "Delivery Robot with Legged Wheel" & Undergraduate research participation in CV Lab(POSTECH)  
+🔭 **I’m currently working on** POSTECH UGRP "Delivery Robot with Legged Wheel" & Undergraduate research participation in CV Lab(POSTECH)  
 📫 **How to reach me** LinkedIn : https://www.linkedin.com/in/jinmo-kim-3041501aa  
 
 <!--
