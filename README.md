@@ -1,11 +1,11 @@
 # Hi, I'm Jinmo Kim!  
   
-## Undergraduate in CSE, POSTECH : ~2023.2  
-### Programming Language: C/C++, Python  
-### Exposure to Open3D, PCL, OpenCV, MySQL, Verilog, AVR C Programming  
-- 🌱 **I’m currently learning** Computer Vision(3D Vision with LiDAR)  
-- 🔭 **I’m currently working on** POSTECH UGRP "Delivery Robot with Legged Wheel" & Undergraduate research participation in CV Lab(POSTECH)  
-- 📫 **How to reach me** LinkedIn : https://www.linkedin.com/in/jinmo-kim-3041501aa  
+## M.S. student in CSE(Advisor: Prof. Jaesik Park), POSTECH : 2023.2 - Current
+### Programming Language: C/C++, Python
+### Exposure to Open3D, PyTorch, PCL, OpenCV, MySQL, Verilog, AVR C Programming, Scala
+- 🌱 **I’m currently learning** LiDAR Perception(semantic segmentation), Neural Rendering(NeRF, SDF) 
+- 🔭 **I’m currently working on**  Research in LiDAR semantic segmentation, Neural rendering with LiDAR and camera.
+- 📫 **How to reach me** [LinkedIn](https://www.linkedin.com/in/jinmo-kim-3041501aa), [Site](https://jinmokim1012.github.io)
 
 <!--
 **JinmoKIM1012/JinmoKIM1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
