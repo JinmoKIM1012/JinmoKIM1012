@@ -5,7 +5,7 @@
 ### Exposure to Open3D, PyTorch, PCL, OpenCV, MySQL, Verilog, AVR C Programming, Scala
 - 🌱 **I’m currently learning** LiDAR Perception(semantic segmentation), Neural Rendering(NeRF, SDF) 
 - 🔭 **I’m currently working on**  Research in LiDAR semantic segmentation, Neural rendering with LiDAR and camera.
-- 📫 **How to reach me** [LinkedIn](https://www.linkedin.com/in/jinmo-kim-3041501aa), [Site](https://jinmokim1012.github.io)
+- 📫 **How to reach me** [LinkedIn](https://www.linkedin.com/in/jinmo-kim-3041501aa), [Site](https://jinmo.kim)
 
 <!--
 **JinmoKIM1012/JinmoKIM1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
