@@ -1,7 +1,7 @@
 # Hi, I'm Jinmo Kim!  
   
-## M.S./Ph.D. Integrated student in IPAI
-## Visual & Geometry Intelligence Lab. (Prof. Jaesik Park), Seoul National University: 2023. 9. - Current
+## M.S./Ph.D. Integrated student in IPAI, SNU.
+## Visual & Geometry Intelligence Lab. (Prof. Jaesik Park): 2023. 9. - Current
 ### Programming Language: C/C++, Python
 ### Exposure to Open3D, PyTorch, PCL, OpenCV, MySQL, Verilog, AVR C Programming, Scala
 - 🌱 **I’m currently learning** LiDAR Perception(semantic segmentation), Neural Rendering(NeRF, SDF) 
