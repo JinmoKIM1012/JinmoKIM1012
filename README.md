@@ -1,6 +1,7 @@
 # Hi, I'm Jinmo Kim!  
   
-## M.S./Ph.D. Integrated student in IPAI, SNU.
+## M.S./Ph.D. Integrated student in IPAI, SNU
+![lab_logo](./assets/lab_logo_transparent.png)
 ## Visual & Geometric Intelligence Lab. (Prof. Jaesik Park): 2023. 9. - Current
 ### Programming Language: C/C++, Python
 ### Exposure to Open3D, PyTorch, PCL, OpenCV, MySQL, Verilog, AVR C Programming, Scala
