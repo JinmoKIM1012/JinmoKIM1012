@@ -2,9 +2,11 @@
   
 ## M.S./Ph.D. Integrated student in IPAI, SNU
 ![lab_logo](./assets/lab_logo_transparent.png)
-## Visual & Geometric Intelligence Lab. (Prof. Jaesik Park): 2023. 9. - Current
-### Programming Language: C/C++, Python
-### Exposure to Open3D, PyTorch, PCL, OpenCV, MySQL, Verilog, AVR C Programming, Scala
+
+**Visual & Geometric Intelligence Lab. (Prof. Jaesik Park): 2023. 9. - Current**
+---
+**Programming Language: C/C++, Python**
+**Exposure to Open3D, PyTorch, PCL, OpenCV, MySQL, Verilog, AVR C Programming, Scala**
 - 🌱 **I’m currently learning** LiDAR Perception(semantic segmentation), Neural Rendering(NeRF, SDF) 
 - 🔭 **I’m currently working on**  Research in LiDAR semantic segmentation, Neural rendering with LiDAR and camera.
 - 📫 **How to reach me** [LinkedIn](https://www.linkedin.com/in/jinmo-kim-3041501aa), [Site](https://jinmo.kim)
